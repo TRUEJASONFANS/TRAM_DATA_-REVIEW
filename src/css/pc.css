@@ -1,0 +1,26 @@
+.siderBody .logo {
+  height: 32px;
+  background: 'red';
+  border-radius: 6px;
+  margin: 16px;
+}
+
+.siderBody .ant-layout-sider-collapsed .anticon {
+  font-size: 16px;
+  margin-left: 8px;
+}
+
+.siderBody .ant-layout-sider-collapsed .nav-text {
+  display: none;
+}
+
+.siderBody .ant-layout-sider-collapsed .ant-menu-submenu-vertical > .ant-menu-submenu-title:after {
+  display: none;
+}
+.siderBody .ant-layout-sider-trigger {
+  background:'red';
+}
+
+.footer {
+  text-align: center;
+}
